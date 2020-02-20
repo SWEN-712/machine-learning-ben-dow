@@ -1,0 +1,23 @@
+################ Most Positive ################
+Tweet: Really enjoying the @CHLNewYork Holiday Jazz Cruise, a new part of my Xmas tradition; Happy Holidays 😉
+Sentiment Score: 1.0
+
+################ Most Neutral ################
+Tweet: #diversityintech #stem https://t.co/sxibjmPRbF
+Sentiment Score: 1.0
+
+################ Most Negative ################
+Tweet: Reading: Are you guilty of ‘inspiration porn’? by Sheri Byrne-Haber https://t.co/QdMI9AZuZT
+Sentiment Score: 1.0
+
+################ Average Positive Sentiment ################
+0.3337121212121212
+
+################ Average Neutral Sentiment ################
+0.5267424242424242
+
+################ Average Negative Sentiment ################
+0.1395454545454545
+
+################ Average Sentiment ################
+neutral
